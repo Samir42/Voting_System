@@ -1,0 +1,16 @@
+C:\Users\SAMIR\source\repos\VotingSystem\Persistence\bin\Debug\netcoreapp3.1\Persistence.deps.json
+C:\Users\SAMIR\source\repos\VotingSystem\Persistence\bin\Debug\netcoreapp3.1\Persistence.dll
+C:\Users\SAMIR\source\repos\VotingSystem\Persistence\obj\Debug\netcoreapp3.1\Persistence.csprojAssemblyReference.cache
+C:\Users\SAMIR\source\repos\VotingSystem\Persistence\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfoInputs.cache
+C:\Users\SAMIR\source\repos\VotingSystem\Persistence\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfo.cs
+C:\Users\SAMIR\source\repos\VotingSystem\Persistence\obj\Debug\netcoreapp3.1\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\SAMIR\source\repos\VotingSystem\Persistence\bin\Debug\netcoreapp3.1\Persistence.pdb
+C:\Users\SAMIR\source\repos\VotingSystem\Persistence\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\SAMIR\source\repos\VotingSystem\Persistence\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\SAMIR\source\repos\VotingSystem\Persistence\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\SAMIR\source\repos\VotingSystem\Persistence\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\SAMIR\source\repos\VotingSystem\Persistence\obj\Debug\netcoreapp3.1\Persistence.csproj.CopyComplete
+C:\Users\SAMIR\source\repos\VotingSystem\Persistence\obj\Debug\netcoreapp3.1\Persistence.dll
+C:\Users\SAMIR\source\repos\VotingSystem\Persistence\obj\Debug\netcoreapp3.1\Persistence.pdb
+C:\Users\SAMIR\source\repos\VotingSystem\Persistence\bin\Debug\netcoreapp3.1\CommonInfrastructure.dll
+C:\Users\SAMIR\source\repos\VotingSystem\Persistence\bin\Debug\netcoreapp3.1\CommonInfrastructure.pdb

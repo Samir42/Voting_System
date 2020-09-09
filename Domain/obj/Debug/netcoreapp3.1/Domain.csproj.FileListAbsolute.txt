@@ -1,0 +1,12 @@
+C:\Users\SAMIR\source\repos\VotingSystem\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\SAMIR\source\repos\VotingSystem\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\SAMIR\source\repos\VotingSystem\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+C:\Users\SAMIR\source\repos\VotingSystem\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\SAMIR\source\repos\VotingSystem\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\SAMIR\source\repos\VotingSystem\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.json
+C:\Users\SAMIR\source\repos\VotingSystem\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.dev.json
+C:\Users\SAMIR\source\repos\VotingSystem\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\SAMIR\source\repos\VotingSystem\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\SAMIR\source\repos\VotingSystem\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\SAMIR\source\repos\VotingSystem\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\SAMIR\source\repos\VotingSystem\Domain\obj\Debug\netcoreapp3.1\Domain.genruntimeconfig.cache

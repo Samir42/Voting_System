@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KcAFmePh1U4Q+Mfp8dSctkQH/074QMRjET8lbQxkV8hllnMa2yKImeP5bcsx4wznsAn6DBd42o0/qNyaJqhy9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SAMIR\\source\\repos\\VotingSystem\\VotingSystem.QueryStack\\VotingSystem.QueryStack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SAMIR\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\SAMIR\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

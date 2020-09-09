@@ -1,0 +1,9 @@
+C:\Users\SAMIR\source\repos\VotingSystem\CommonInfrastructure\bin\Debug\netcoreapp3.1\CommonInfrastructure.deps.json
+C:\Users\SAMIR\source\repos\VotingSystem\CommonInfrastructure\bin\Debug\netcoreapp3.1\CommonInfrastructure.dll
+C:\Users\SAMIR\source\repos\VotingSystem\CommonInfrastructure\bin\Debug\netcoreapp3.1\CommonInfrastructure.pdb
+C:\Users\SAMIR\source\repos\VotingSystem\CommonInfrastructure\obj\Debug\netcoreapp3.1\CommonInfrastructure.csprojAssemblyReference.cache
+C:\Users\SAMIR\source\repos\VotingSystem\CommonInfrastructure\obj\Debug\netcoreapp3.1\CommonInfrastructure.AssemblyInfoInputs.cache
+C:\Users\SAMIR\source\repos\VotingSystem\CommonInfrastructure\obj\Debug\netcoreapp3.1\CommonInfrastructure.AssemblyInfo.cs
+C:\Users\SAMIR\source\repos\VotingSystem\CommonInfrastructure\obj\Debug\netcoreapp3.1\CommonInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\SAMIR\source\repos\VotingSystem\CommonInfrastructure\obj\Debug\netcoreapp3.1\CommonInfrastructure.dll
+C:\Users\SAMIR\source\repos\VotingSystem\CommonInfrastructure\obj\Debug\netcoreapp3.1\CommonInfrastructure.pdb

@@ -1,0 +1,9 @@
+C:\Users\SAMIR\source\repos\VotingSystem\VotingSystem.QueryStack\bin\Debug\netstandard2.0\VotingSystem.QueryStack.deps.json
+C:\Users\SAMIR\source\repos\VotingSystem\VotingSystem.QueryStack\bin\Debug\netstandard2.0\VotingSystem.QueryStack.dll
+C:\Users\SAMIR\source\repos\VotingSystem\VotingSystem.QueryStack\bin\Debug\netstandard2.0\VotingSystem.QueryStack.pdb
+C:\Users\SAMIR\source\repos\VotingSystem\VotingSystem.QueryStack\obj\Debug\netstandard2.0\VotingSystem.QueryStack.csprojAssemblyReference.cache
+C:\Users\SAMIR\source\repos\VotingSystem\VotingSystem.QueryStack\obj\Debug\netstandard2.0\VotingSystem.QueryStack.AssemblyInfoInputs.cache
+C:\Users\SAMIR\source\repos\VotingSystem\VotingSystem.QueryStack\obj\Debug\netstandard2.0\VotingSystem.QueryStack.AssemblyInfo.cs
+C:\Users\SAMIR\source\repos\VotingSystem\VotingSystem.QueryStack\obj\Debug\netstandard2.0\VotingSystem.QueryStack.csproj.CoreCompileInputs.cache
+C:\Users\SAMIR\source\repos\VotingSystem\VotingSystem.QueryStack\obj\Debug\netstandard2.0\VotingSystem.QueryStack.dll
+C:\Users\SAMIR\source\repos\VotingSystem\VotingSystem.QueryStack\obj\Debug\netstandard2.0\VotingSystem.QueryStack.pdb

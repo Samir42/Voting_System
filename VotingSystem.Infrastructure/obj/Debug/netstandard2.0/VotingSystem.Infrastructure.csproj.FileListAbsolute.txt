@@ -1,0 +1,9 @@
+C:\Users\SAMIR\source\repos\VotingSystem\VotingSystem.Infrastructure\bin\Debug\netstandard2.0\VotingSystem.Infrastructure.deps.json
+C:\Users\SAMIR\source\repos\VotingSystem\VotingSystem.Infrastructure\bin\Debug\netstandard2.0\VotingSystem.Infrastructure.dll
+C:\Users\SAMIR\source\repos\VotingSystem\VotingSystem.Infrastructure\obj\Debug\netstandard2.0\VotingSystem.Infrastructure.csprojAssemblyReference.cache
+C:\Users\SAMIR\source\repos\VotingSystem\VotingSystem.Infrastructure\obj\Debug\netstandard2.0\VotingSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\SAMIR\source\repos\VotingSystem\VotingSystem.Infrastructure\obj\Debug\netstandard2.0\VotingSystem.Infrastructure.AssemblyInfo.cs
+C:\Users\SAMIR\source\repos\VotingSystem\VotingSystem.Infrastructure\bin\Debug\netstandard2.0\VotingSystem.Infrastructure.pdb
+C:\Users\SAMIR\source\repos\VotingSystem\VotingSystem.Infrastructure\obj\Debug\netstandard2.0\VotingSystem.Infrastructure.dll
+C:\Users\SAMIR\source\repos\VotingSystem\VotingSystem.Infrastructure\obj\Debug\netstandard2.0\VotingSystem.Infrastructure.pdb
+C:\Users\SAMIR\source\repos\VotingSystem\VotingSystem.Infrastructure\obj\Debug\netstandard2.0\VotingSystem.Infrastructure.csproj.CoreCompileInputs.cache
