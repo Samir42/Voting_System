@@ -1,9 +1,0 @@
-C:\Users\SAMIR\source\repos\VotingSystem\VotingSystem.CommandStack\bin\Debug\netstandard2.0\VotingSystem.CommandStack.deps.json
-C:\Users\SAMIR\source\repos\VotingSystem\VotingSystem.CommandStack\bin\Debug\netstandard2.0\VotingSystem.CommandStack.dll
-C:\Users\SAMIR\source\repos\VotingSystem\VotingSystem.CommandStack\bin\Debug\netstandard2.0\VotingSystem.CommandStack.pdb
-C:\Users\SAMIR\source\repos\VotingSystem\VotingSystem.CommandStack\obj\Debug\netstandard2.0\VotingSystem.CommandStack.csprojAssemblyReference.cache
-C:\Users\SAMIR\source\repos\VotingSystem\VotingSystem.CommandStack\obj\Debug\netstandard2.0\VotingSystem.CommandStack.AssemblyInfoInputs.cache
-C:\Users\SAMIR\source\repos\VotingSystem\VotingSystem.CommandStack\obj\Debug\netstandard2.0\VotingSystem.CommandStack.AssemblyInfo.cs
-C:\Users\SAMIR\source\repos\VotingSystem\VotingSystem.CommandStack\obj\Debug\netstandard2.0\VotingSystem.CommandStack.csproj.CoreCompileInputs.cache
-C:\Users\SAMIR\source\repos\VotingSystem\VotingSystem.CommandStack\obj\Debug\netstandard2.0\VotingSystem.CommandStack.dll
-C:\Users\SAMIR\source\repos\VotingSystem\VotingSystem.CommandStack\obj\Debug\netstandard2.0\VotingSystem.CommandStack.pdb

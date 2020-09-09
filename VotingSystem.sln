@@ -24,6 +24,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL", "SQL", "{720367BA-9E3
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommonInfrastructure", "CommonInfrastructure\CommonInfrastructure.csproj", "{2684F549-725E-4C99-BE99-913E87EBE76A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Postman", "Postman", "{2B0A271C-C752-42F5-8780-8D8BE2C0EDCA}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Pictures\Saved Pictures\Voting System.postman_collection.json = ..\..\..\Pictures\Saved Pictures\Voting System.postman_collection.json
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
